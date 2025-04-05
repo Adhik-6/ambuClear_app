@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950782462460",
+    "project_id": "ambuclear-b4808",
+    "storage_bucket": "ambuclear-b4808.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950782462460:android:ba4c01daa072d57516ca79",
+        "android_client_info": {
+          "package_name": "com.ambulance.clear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6IvqRQqR77wpDN-5CkZY1bpl7bwNnsF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
